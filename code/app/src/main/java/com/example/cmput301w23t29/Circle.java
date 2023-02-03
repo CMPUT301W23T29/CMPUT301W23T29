@@ -1,5 +1,3 @@
-package com.example.cmput301w23t29;
-
-public class Circle {
-    // ...
+public class circle extends Shape {
+	private int radius;
 }
